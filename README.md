@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
+- 🎨 Figma Profile **https://www.figma.com/@svivek**
+
 - ⚡ What I like **Binging Anime & Sci-fi Movies**
 
 <h3 align="left">Connect with me:</h3>
