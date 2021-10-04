@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
-- ⚡ Fun fact **I love Binging Anime**
+- ⚡ What I like **Binging Anime Sci-fi Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
