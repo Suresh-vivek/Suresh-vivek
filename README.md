@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suresh-vivek&label=Profile%20views&color=0e75b6&style=flat" alt="suresh-vivek" /> </p>
 
-- 🌱 I’m currently learning **C++, Python, Web Development**
+- 🌱 I’m currently learning **Data Structures & Algorithms , Web Development**
 
-- 💬 Ask me about **Python, HTML, C++**
+- 💬 Ask me about **Python, HTML, C++, UI Design , NodeJs , Tailwind CSS**
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
