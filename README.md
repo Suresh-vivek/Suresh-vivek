@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms , Web Development**
 
-- 💬 Ask me about **Python, HTML, C++, UI Design , NodeJs , Tailwind CSS**
+- 💬 Ask me about **React , ExpressJs , C++, UI Design , NodeJs , Tailwind CSS , Backend**
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
