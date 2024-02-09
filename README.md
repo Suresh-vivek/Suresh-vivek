@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
-- ![image](https://github.com/Suresh-vivek/Suresh-vivek/assets/64722627/aa97a1c8-efde-4f92-8747-f4fe0bc15ac9) Portfolio Lnk **https://vivek3dportfolio.netlify.app/**
-
+- 👨‍💻 Portfolio Lnk **https://vivek3dportfolio.netlify.app/**
 
 - 🎨 Figma Profile **https://www.figma.com/@svivek**
 
