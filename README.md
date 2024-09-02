@@ -9,9 +9,10 @@
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
-- 👨‍💻 Portfolio Lnk **https://vivek3dportfolio.netlify.app/**
+- 👨‍💻 Portfolio Lnk **https://vivekportfolio.tech/**
 
 - 🎨 Figma Profile **https://www.figma.com/@svivek**
+-    LinkedIn Profile **https://www.linkedin.com/in/itzvivek/**
 
 - ⚡ What I like? **Binging Anime & Sci-fi Movies**
 
