@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **svivek.kumar012@gmail.com**
 
-- 👨‍💻 Portfolio Lnk **https://vivekportfolio.tech/**
+- 👨‍💻 Portfolio Lnk **https://vivekportfolio.co/**
 
 - 🎨 Figma Profile **https://www.figma.com/@svivek**
 -    LinkedIn Profile **https://www.linkedin.com/in/itzvivek/**
